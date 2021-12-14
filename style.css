@@ -1,0 +1,14 @@
+body {
+  background: #fdca40;
+  font-family: 'Circular-Loom';
+  padding: 0;
+  margin: 0;
+}
+h1{
+  font-size:38px;
+}
+h1,
+h2 {
+  text-align: center;
+  color: #583d72;
+}
